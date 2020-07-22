@@ -6,9 +6,8 @@ Areas I found challenging:
 - Implementing the splitting functionality
 - Accounting for different possibilities each round
 - Minimizing conditionals
-- Deciding where to put certain functions (for example the end game scenarios could have went into
-                                            the player or dealer class)
-- Using interfaces (need to refresh myself on that)
+- Deciding where to put certain functions 
+- Using interfaces (I need to refresh myself on that)
 - Testing (I did not have time to include major tests but I included some testing scenarios using different
   decks. I also did not do any unit testing as this is something I'm not quite familiar with yet.
 
